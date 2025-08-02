@@ -71,8 +71,8 @@ Prerequisites
 
 Installation
 
-git clone https://github.com/KeenifyAssessment/keenify-frontend.git
-cd keenify-frontend
+git clone https://github.com/KeenifyAssessment/book-tracker-fontend.git
+cd book-tracker-frontend
 
 npm install
 
